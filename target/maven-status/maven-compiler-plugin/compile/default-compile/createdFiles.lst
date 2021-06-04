@@ -1,0 +1,4 @@
+entity\Movie.class
+com\mycompany\jpahibernatetesting\App.class
+entity\Review.class
+entity\Book.class
